@@ -1,16 +1,23 @@
-# taskapp
+# auto-complete search Map
 
-A new Flutter application.
+the application made of 2 screens :splash screen and map screen. The map screen will have the following: a map
+with a search, dropdown of places to view on map and a button to view nearby restaurants
+based on your location. basically the user can view and locate addresses on Google map
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Usage Flow:
 
-A few resources to get you started if this is your first Flutter project:
+• The app will get the current location
+• The user will view place’s location (dummy data) on map
+• The user can view the nearby restaurants on map
+• The user will click on a place to view its details and show directions
+• The user will view a full screen test ad ( Admob ) each time he opens the app
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## System Resources/Specifications:
+• Google Map API Key: AIzaSyAiAir1uMz3NwJDd9vjIhqeEuTUgw2S7VM
+• Admob unit id:
+Application Id:
+ca-app-pub-2559564046715323~6653115980
+Ad unit id:
+ca-app-pub-2559564046715323/2204952129
